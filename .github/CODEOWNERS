@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @jeffdatascience
+
+# Código fuente
+/src/ @jeffdatascience
+/scripts/ @jeffdatascience
+
+# Tests
+/tests/ @jeffdatascience
+
+# Documentación
+/docs/ @jeffdatascience
+
+# Workflows y configuración de GitHub
+/.github/ @jeffdatascience
